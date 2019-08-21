@@ -1,0 +1,3 @@
+Module: https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/2
+Download Time: 2019-08-14 22:54:15.799642
+Downloader Hostname: 137a00b8c029 (PID:1)

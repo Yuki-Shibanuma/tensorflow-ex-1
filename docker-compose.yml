@@ -1,0 +1,5 @@
+version: '3.3'
+services:
+  tensorflow:
+    build: .
+    ports: 8888
