@@ -4,3 +4,4 @@ venv/
 tfhub_modules/
 images/
 model/
+data/
